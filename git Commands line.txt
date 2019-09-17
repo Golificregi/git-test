@@ -1,4 +1,7 @@
-An A-Z Index of the Linux command line: bash + utilities.
+
+
+An A-Z Index of the Linux command line: bash + utilities. Updated file and commands
+
   alias    Create an alias •
   apropos  Search Help manual pages (man -k)
   apt-get  Search for and install software packages (Debian/Ubuntu)
